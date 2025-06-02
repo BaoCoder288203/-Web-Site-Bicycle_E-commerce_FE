@@ -1,0 +1,15 @@
+/* EditAddressModal.css */
+.react-select__control {
+    background-color: white;
+    border-radius: 4px;
+    min-height: 56px;
+    padding: 0 8px;
+}
+
+.react-select__placeholder {
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.react-select__menu {
+    z-index: 9999;
+}
