@@ -31,5 +31,50 @@
 
 ---
 
-## 📂 Project Structure
+## 📑 Table of Contents
+
+- [Overview](#overview)
+- [Getting Started](#getting-started)  
+  - [Prerequisites](#prerequisites)  
+  - [Installation](#installation)  
+  - [Usage](#usage)  
+  - [Testing](#testing)
+
+---
+
+## 📖 Overview
+
+**Web-Site-Bicycle_E-commerce_FE** là một ứng dụng front-end hiện đại được xây dựng với React và Vite, nhằm cung cấp trải nghiệm mua sắm trực tuyến tuyệt vời cho những người yêu thích xe đạp.
+
+### 💡 Vì sao chọn Web-Site-Bicycle_E-commerce_FE?
+
+Dự án này hướng đến việc đơn giản hóa quy trình thương mại điện tử và mang lại một kiến trúc mạnh mẽ cho lập trình viên. Các tính năng nổi bật:
+
+- 🚀 **Modern Web Application Architecture**: Tận dụng Vite cho quá trình build nhanh và hiệu suất tối ưu.
+- 🧠 **Seamless State Management**: Tích hợp Redux để quản lý trạng thái ứng dụng hiệu quả.
+- 🛠️ **Custom Hooks**: Đơn giản hóa API và xác thực người dùng thông qua các hook có thể tái sử dụng.
+- 📱 **Responsive Design**: Trải nghiệm đồng nhất trên mọi thiết bị nhờ Material-UI.
+- 📊 **Comprehensive Admin Dashboard**: Giúp admin quản lý sản phẩm, đơn hàng và chương trình khuyến mãi hiệu quả.
+
+---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+
+Để chạy được dự án, bạn cần các thành phần sau:
+
+- **Programming Language**: TypeScript  
+- **Package Manager**: Yarn hoặc NPM
+
+---
+
+### 🛠️ Installation
+
+Thực hiện theo các bước sau để cài đặt dự án:
+
+1. **Clone repository**  
+   ```bash
+   git clone https://github.com/BaoCoder288203/-Web-Site-Bicycle_E-commerce_FE
+
 
