@@ -77,4 +77,32 @@ Thực hiện theo các bước sau để cài đặt dự án:
    ```bash
    git clone https://github.com/BaoCoder288203/-Web-Site-Bicycle_E-commerce_FE
 
+2. **Cài đặt dependencies**
+npm install
+# hoặc
+yarn install
+
+3. **Chạy ứng dụng**
+npm run dev
+# hoặc
+yarn dev
+
+Truy cập ứng dụng tại: [http://localhost:5173](http://localhost:5173)
+
+---
+
+## 📁 Cấu trúc thư mục
+
+```bash
+├── public/                 # Tệp tĩnh
+├── src/
+│   ├── components/         # Các thành phần giao diện
+│   ├── pages/              # Các trang chính
+│   ├── assets/             # Hình ảnh và tài nguyên khác
+│   ├── App.tsx             # Thành phần chính của ứng dụng
+│   └── main.tsx            # Điểm khởi đầu của ứng dụng
+├── index.html              # Tệp HTML chính
+├── package.json            # Thông tin và scripts của dự án
+├── vite.config.ts          # Cấu hình Vite
+└── tsconfig.json           # Cấu hình TypeScript
 
